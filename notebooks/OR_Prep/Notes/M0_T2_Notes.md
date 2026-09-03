@@ -1,6 +1,6 @@
 # Module 0, Topic 2: NumPy for OR — Session Notes
 
-**Date:** July 30, 2026  
+**Date:** August 26, 2026  
 **Status:** Completed ✅
 
 ## Concepts covered
