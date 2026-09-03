@@ -1,6 +1,6 @@
 # Module 1, Topic 1: LP Formulation — Session Notes
 
-**Date:** Aug 2, 2026  
+**Date:** sept 3, 2026  
 **Status:** Completed ✅
 
 ## Concepts covered
