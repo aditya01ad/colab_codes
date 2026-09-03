@@ -1,6 +1,6 @@
 # Module 0, Topic 3: Pandas for OR — Session Notes
 
-**Date:** July 31, 2026  
+**Date:** Sept 1, 2026  
 **Status:** Completed ✅
 
 ## Concepts covered
